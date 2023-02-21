@@ -1,0 +1,22 @@
+{
+  "name": "ipfs-flow",
+  "version": "1.0.0",
+  "description": "ipfs interactive workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vseae/ipfs-flow.git"
+  },
+  "keywords": [
+    "ipfs"
+  ],
+  "author": "vseae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vseae/ipfs-flow/issues"
+  },
+  "homepage": "https://github.com/vseae/ipfs-flow#readme"
+}
